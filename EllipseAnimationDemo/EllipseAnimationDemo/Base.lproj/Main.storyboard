@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21678"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mUW-XF-3jd">
+                                <rect key="frame" x="144.33333333333334" y="568" width="104.33333333333334" height="50"/>
+                                <color key="backgroundColor" red="0.14117647059999999" green="0.40784313729999999" blue="0.94901960780000005" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="JPY-rg-t8R"/>
+                                </constraints>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" title="改变渐变色"/>
+                                <connections>
+                                    <action selector="Gradient:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Dci-1M-56y"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GeF-57-Qk8">
+                                <rect key="frame" x="19.999999999999993" y="568" width="104.33333333333331" height="50"/>
+                                <color key="backgroundColor" red="0.14117647059999999" green="0.40784313729999999" blue="0.94901960780000005" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="JDw-bR-HDC"/>
+                                </constraints>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" title="改变frame"/>
+                                <connections>
+                                    <action selector="viewFrame:" destination="BYZ-38-t0r" eventType="touchUpInside" id="njw-fx-15S"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="SAR-gP-Ug3">
+                                <rect key="frame" x="268.66666666666669" y="568" width="104.33333333333331" height="50"/>
+                                <color key="backgroundColor" red="0.14117647059999999" green="0.40784313729999999" blue="0.94901960780000005" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="0fM-wi-Zt0"/>
+                                </constraints>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" title="改变frame渐变"/>
+                                <connections>
+                                    <action selector="frameAndGradient:" destination="BYZ-38-t0r" eventType="touchUpInside" id="p7r-47-ZGP"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="SAR-gP-Ug3" firstAttribute="centerY" secondItem="mUW-XF-3jd" secondAttribute="centerY" id="677-Zk-69e"/>
+                            <constraint firstItem="GeF-57-Qk8" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="8EX-O5-Hzh"/>
+                            <constraint firstItem="mUW-XF-3jd" firstAttribute="centerY" secondItem="GeF-57-Qk8" secondAttribute="centerY" id="DUq-wY-b5M"/>
+                            <constraint firstItem="mUW-XF-3jd" firstAttribute="width" secondItem="GeF-57-Qk8" secondAttribute="width" id="Pcl-SW-KIN"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="SAR-gP-Ug3" secondAttribute="trailing" constant="20" id="TML-64-MI0"/>
+                            <constraint firstItem="SAR-gP-Ug3" firstAttribute="leading" secondItem="mUW-XF-3jd" secondAttribute="trailing" constant="20" id="ZHn-ct-Vf5"/>
+                            <constraint firstItem="SAR-gP-Ug3" firstAttribute="width" secondItem="GeF-57-Qk8" secondAttribute="width" id="dpe-un-MX7"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="GeF-57-Qk8" secondAttribute="bottom" constant="200" id="k3v-Gs-zg5"/>
+                            <constraint firstItem="mUW-XF-3jd" firstAttribute="leading" secondItem="GeF-57-Qk8" secondAttribute="trailing" constant="20" id="wUi-A9-qfB"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-57" y="4"/>
+        </scene>
+    </scenes>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3BE5052F-8C48-4884-B5BC-50E8EBF4DD92"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "142B3BEA-8673-4FD8-AAE9-C334C0731722"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EllipseAnimationDemo/GJEllipseView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "-drawRect:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "142B3BEA-8673-4FD8-AAE9-C334C0731722 - 780345a3d19f430c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GJEllipseView drawRect:]"
+                  moduleName = "EllipseAnimationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v_guijiang/EllipseAnimationDemo/EllipseAnimationDemo/GJEllipseView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "1728">
+               </Location>
+               <Location
+                  uuid = "142B3BEA-8673-4FD8-AAE9-C334C0731722 - 780345a3d19f432d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GJEllipseView drawRect:]"
+                  moduleName = "EllipseAnimationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v_guijiang/EllipseAnimationDemo/EllipseAnimationDemo/GJEllipseView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "1662">
+               </Location>
+               <Location
+                  uuid = "142B3BEA-8673-4FD8-AAE9-C334C0731722 - 780345a3d19f4656"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GJEllipseView drawRect:]"
+                  moduleName = "EllipseAnimationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v_guijiang/EllipseAnimationDemo/EllipseAnimationDemo/GJEllipseView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "2784">
+               </Location>
+               <Location
+                  uuid = "142B3BEA-8673-4FD8-AAE9-C334C0731722 - 780345a3d19f4656"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GJEllipseView drawRect:]"
+                  moduleName = "EllipseAnimationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v_guijiang/EllipseAnimationDemo/EllipseAnimationDemo/GJEllipseView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "2716">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "448F2FCE-6BDB-434A-A8ED-EC6E30B98998"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EllipseAnimationDemo/GJEllipseView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "-setEllipticRect:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "448F2FCE-6BDB-434A-A8ED-EC6E30B98998 - ec242dcd06ca6c68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GJEllipseView setEllipticRect:]"
+                  moduleName = "EllipseAnimationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v_guijiang/EllipseAnimationDemo/EllipseAnimationDemo/GJEllipseView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "448F2FCE-6BDB-434A-A8ED-EC6E30B98998 - ec242dcd06ca6c68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GJEllipseView setEllipticRect:]"
+                  moduleName = "EllipseAnimationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v_guijiang/EllipseAnimationDemo/EllipseAnimationDemo/GJEllipseView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "448F2FCE-6BDB-434A-A8ED-EC6E30B98998 - ec242dcd06ca6c68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GJEllipseView setEllipticRect:]"
+                  moduleName = "EllipseAnimationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v_guijiang/EllipseAnimationDemo/EllipseAnimationDemo/GJEllipseView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "448F2FCE-6BDB-434A-A8ED-EC6E30B98998 - ec242dcd06ca6c4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GJEllipseView setEllipticRect:]"
+                  moduleName = "EllipseAnimationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v_guijiang/EllipseAnimationDemo/EllipseAnimationDemo/GJEllipseView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "448F2FCE-6BDB-434A-A8ED-EC6E30B98998 - ec242dcd06ca6c09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GJEllipseView setEllipticRect:]"
+                  moduleName = "EllipseAnimationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v_guijiang/EllipseAnimationDemo/EllipseAnimationDemo/GJEllipseView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD8ADB80-F29B-4E04-82F9-405B7FE28DA3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EllipseAnimationDemo/GJEllipseView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "-drawRect:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AD8ADB80-F29B-4E04-82F9-405B7FE28DA3 - 780345a3d19f4ca2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GJEllipseView drawRect:]"
+                  moduleName = "EllipseAnimationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v_guijiang/EllipseAnimationDemo/EllipseAnimationDemo/GJEllipseView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "194">
+               </Location>
+               <Location
+                  uuid = "AD8ADB80-F29B-4E04-82F9-405B7FE28DA3 - 780345a3d19f4ca2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GJEllipseView drawRect:]"
+                  moduleName = "EllipseAnimationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v_guijiang/EllipseAnimationDemo/EllipseAnimationDemo/GJEllipseView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "316">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2E65796-18DB-4695-957F-08CC99606D5C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EllipseAnimationDemo/GJEllipseView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "-drawRect:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B2E65796-18DB-4695-957F-08CC99606D5C - 780345a3d19f4c26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GJEllipseView drawRect:]"
+                  moduleName = "EllipseAnimationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v_guijiang/EllipseAnimationDemo/EllipseAnimationDemo/GJEllipseView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "432">
+               </Location>
+               <Location
+                  uuid = "B2E65796-18DB-4695-957F-08CC99606D5C - 780345a3d19f4c26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GJEllipseView drawRect:]"
+                  moduleName = "EllipseAnimationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v_guijiang/EllipseAnimationDemo/EllipseAnimationDemo/GJEllipseView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "564">
+               </Location>
+               <Location
+                  uuid = "B2E65796-18DB-4695-957F-08CC99606D5C - 780345a3d19f4c26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GJEllipseView drawRect:]"
+                  moduleName = "EllipseAnimationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/v_guijiang/EllipseAnimationDemo/EllipseAnimationDemo/GJEllipseView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "592">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BDC590FE-9200-4EC3-BE46-056A35C551DE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EllipseAnimationDemo/GJEllipseView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "-setEllipticRect:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
